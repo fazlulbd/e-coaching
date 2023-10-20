@@ -1,0 +1,67 @@
+import img1 from './assets/image/course-1.jpg'
+import img2 from './assets/image/course-2.jpg'
+import img3 from './assets/image/course-3.jpg'
+import img4 from './assets/image/course-4.jpg'
+import adminimg from "./assets/image/profileimg.png"
+export const fackData =[
+    {
+        _id:1,
+        admin:"Adam johan",
+        adminimg:adminimg,
+        rationg:"4.7",
+        courseName:"Applied data science specialization",
+        lesson:"10 lesson",
+        student:"125 students",
+        time:"1 hr 50 min",
+        lecture:"12 lectures",
+        image:img1,
+    },
+    {
+        _id:2,
+        admin:"Adam johan",
+        adminimg:adminimg,
+        rationg:"4.7",
+        courseName:"Applied ata science specialization",
+        lesson:"10 lesson",
+        student:"125 students",
+        time:"1 hr 50 min",
+        lecture:"12 lectures",
+        image:img2,
+    },
+    {
+        _id:3,
+        admin:"Adam johan",
+        adminimg:adminimg,
+        rationg:"4.7",
+        courseName:"Applied ata science specialization",
+        lesson:"10 lesson",
+        student:"125 students",
+        time:"1 hr 50 min",
+        lecture:"12 lectures",
+        image:img3,
+    },
+    {
+        _id:4,
+        admin:"Adam johan",
+        adminimg:adminimg,
+        rationg:"4.7",
+        courseName:"Applied ata science specialization",
+        lesson:"10 lesson",
+        student:"125 students",
+        time:"1 hr 50 min",
+        lecture:"12 lectures",
+        image:img4,
+    },
+    {
+        _id:5,
+        admin:"Adam johan",
+        adminimg:adminimg,
+        rationg:"4.7",
+        courseName:"Applied ata science specialization",
+        lesson:"10 lesson",
+        student:"125 students",
+        time:"1 hr 50 min",
+        lecture:"12 lectures",
+        image:img3,
+    },
+]

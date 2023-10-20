@@ -1,0 +1,180 @@
+@media (max-width: 575.98px) { 
+    .header{
+        padding: 40px 0 !important;
+        margin: 0;
+    }
+    .header-wrapper{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .header-wrapper h1{
+        text-transform: capitalize;
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    .header-wrapper p{
+        width: 350px !important;
+        margin-bottom: 40px;
+    }
+    .header-from{
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .header-from input{
+        width: 330px;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        padding: 15px;
+        border: 1px solid #55c360;
+    }
+    .header-from button{
+        position: absolute;
+        top: 0;
+        right: 20px;
+        padding: 8px 15px;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        background-color: #55c360 !important;
+        font-size: 25px;
+        color: #ffffff !important;
+    }
+  
+    .header-text h3{
+        font-size: 30px;
+        color: #55c360;
+        font-weight: 700;
+    }
+    .header-text p{
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .banner-text{
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .header{
+        padding: 40px 0 !important;
+        margin: 0;
+    }
+    .header-wrapper{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .header-wrapper h1{
+        text-transform: capitalize;
+        font-size: 55px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    .header-wrapper p{
+        width: 100% ;
+        margin-bottom: 40px;
+    }
+    .header-from{
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .header-from input{
+       width: 100%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        padding: 15px;
+        border: 1px solid #55c360;
+    }
+    .header-from button{
+        position: absolute;
+        top: 0;
+        right: 8px;
+        padding: 8px 15px;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        background-color: #55c360 !important;
+        font-size: 25px;
+        color: #ffffff !important;
+    }
+  
+    .header-text h3{
+        font-size: 30px;
+        color: #55c360;
+        font-weight: 700;
+    }
+    .header-text p{
+        font-size: 15px;
+        margin-bottom: 15px;
+       padding: 0 30px;
+    }
+    .banner-text{
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .header{
+        padding: 40px 0 !important;
+        margin: 0;
+    }
+    .header-wrapper{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .header-wrapper h1{
+        text-transform: capitalize;
+        font-size: 70px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    .header-wrapper p{
+        text-align: center;
+        width: 100% !important;
+        margin-bottom: 40px;
+    }
+    .header-from{
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .header-from input{
+       width: 100%;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        padding: 15px;
+        border: 1px solid #55c360;
+    }
+    .header-from button{
+        position: absolute;
+        top: 0;
+        right: 8px;
+        padding: 8px 15px;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+        background-color: #55c360 !important;
+        font-size: 25px;
+        color: #ffffff !important;
+    }
+}
